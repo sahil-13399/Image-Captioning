@@ -9,5 +9,5 @@ Pillow==5.4.1
 PyYAML==3.13
 scipy==1.2.0
 tensorflow==1.15.2
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 cloudant==2.4.0
